@@ -1,0 +1,194 @@
+
+================== NEW PREDICTIONS ==================
+
+Fulham BEAT Chelsea
+Aston_Villa BEAT Leeds
+Man_Utd BEAT Man_City
+Brighton Liverpool DRAW
+Everton Southampton DRAW
+Nottingham_Forest Leicester DRAW
+Wolves BEAT West_Ham
+Brentford BEAT AFC_Bournemouth
+Chelsea Crystal_Palace DRAW
+Newcastle LOST AGANIST Fulham
+Spurs LOST AGANIST Arsenal
+Man_City Spurs DRAW
+Liverpool BEAT Chelsea
+AFC_Bournemouth LOST AGANIST Nottingham_Forest
+Leicester Brighton DRAW
+Southampton LOST AGANIST Aston_Villa
+West_Ham LOST AGANIST Everton
+Crystal_Palace LOST AGANIST Newcastle
+Leeds LOST AGANIST Brentford
+Man_City LOST AGANIST Wolves
+Arsenal LOST AGANIST Man_Utd
+Fulham BEAT Spurs
+Chelsea LOST AGANIST Fulham
+Everton LOST AGANIST Arsenal
+Aston_Villa BEAT Leicester
+Brentford BEAT Southampton
+Brighton AFC_Bournemouth DRAW
+Man_Utd BEAT Crystal_Palace
+Wolves Liverpool DRAW
+Newcastle BEAT West_Ham
+Nottingham_Forest BEAT Leeds
+Spurs Man_City DRAW
+West_Ham LOST AGANIST Chelsea
+Arsenal LOST AGANIST Brentford
+Crystal_Palace Brighton DRAW
+Fulham Nottingham_Forest DRAW
+Leicester Spurs DRAW
+Southampton LOST AGANIST Wolves
+AFC_Bournemouth LOST AGANIST Newcastle
+Leeds LOST AGANIST Man_Utd
+Man_City LOST AGANIST Aston_Villa
+Liverpool BEAT Everton
+Arsenal BEAT Man_City
+Aston_Villa LOST AGANIST Arsenal
+Brentford BEAT Crystal_Palace
+Brighton LOST AGANIST Fulham
+Chelsea BEAT Southampton
+Everton LOST AGANIST Leeds
+Nottingham_Forest BEAT Man_City
+Wolves BEAT AFC_Bournemouth
+Newcastle LOST AGANIST Liverpool
+Man_Utd BEAT Leicester
+Spurs BEAT West_Ham
+Fulham BEAT Wolves
+Newcastle BEAT Brighton
+Everton LOST AGANIST Aston_Villa
+Leeds BEAT Southampton
+Leicester LOST AGANIST Arsenal
+West_Ham LOST AGANIST Nottingham_Forest
+AFC_Bournemouth LOST AGANIST Man_City
+Crystal_Palace LOST AGANIST Liverpool
+Man_Utd Brentford DRAW
+Spurs Chelsea DRAW
+Arsenal BEAT AFC_Bournemouth
+Aston_Villa BEAT Crystal_Palace
+Brentford Fulham DRAW
+Brighton West_Ham DRAW
+Chelsea Leeds DRAW
+Liverpool Man_Utd DRAW
+Man_City LOST AGANIST Newcastle
+Nottingham_Forest BEAT Everton
+Southampton Leicester DRAW
+Wolves Spurs DRAW
+AFC_Bournemouth LOST AGANIST Liverpool
+Crystal_Palace Man_City DRAW
+Everton LOST AGANIST Brentford
+Fulham Arsenal DRAW
+Leeds Brighton DRAW
+Leicester LOST AGANIST Chelsea
+Man_Utd BEAT Southampton
+Newcastle BEAT Wolves
+Spurs LOST AGANIST Nottingham_Forest
+West_Ham LOST AGANIST Aston_Villa
+Arsenal BEAT Crystal_Palace
+Aston_Villa BEAT AFC_Bournemouth
+Brentford BEAT Leicester
+Brighton Man_Utd DRAW
+Chelsea BEAT Everton
+Liverpool Fulham DRAW
+Man_City West_Ham DRAW
+Nottingham_Forest Newcastle DRAW
+Southampton LOST AGANIST Spurs
+Wolves BEAT Leeds
+AFC_Bournemouth LOST AGANIST Fulham
+Arsenal BEAT Leeds
+Brighton Brentford DRAW
+Chelsea LOST AGANIST Aston_Villa
+Crystal_Palace Leicester DRAW
+Everton LOST AGANIST Spurs
+Man_City LOST AGANIST Liverpool
+Nottingham_Forest Wolves DRAW
+West_Ham BEAT Southampton
+Aston_Villa BEAT Nottingham_Forest
+Brentford LOST AGANIST Newcastle
+Fulham BEAT West_Ham
+Leeds LOST AGANIST Crystal_Palace
+Leicester BEAT AFC_Bournemouth
+Liverpool BEAT Arsenal
+Man_Utd BEAT Everton
+Southampton LOST AGANIST Man_City
+Spurs BEAT Brighton
+Wolves Chelsea DRAW
+Aston_Villa LOST AGANIST Newcastle
+Chelsea BEAT Brighton
+Everton LOST AGANIST Fulham
+Leeds LOST AGANIST Liverpool
+Man_City Leicester DRAW
+Nottingham_Forest LOST AGANIST Man_Utd
+Southampton LOST AGANIST Crystal_Palace
+Spurs BEAT AFC_Bournemouth
+West_Ham LOST AGANIST Arsenal
+Wolves Brentford DRAW
+AFC_Bournemouth BEAT West_Ham
+Arsenal BEAT Southampton
+Brentford Aston_Villa DRAW
+Brighton LOST AGANIST Man_City
+Crystal_Palace BEAT Everton
+Fulham BEAT Leeds
+Liverpool Nottingham_Forest DRAW
+Man_Utd BEAT Chelsea
+Newcastle Spurs DRAW
+Everton LOST AGANIST Newcastle
+Leeds LOST AGANIST Leicester
+Nottingham_Forest BEAT Brighton
+Spurs Man_Utd DRAW
+West_Ham LOST AGANIST Liverpool
+Wolves Crystal_Palace DRAW
+Aston_Villa Fulham DRAW
+Chelsea LOST AGANIST Brentford
+Southampton LOST AGANIST AFC_Bournemouth
+Man_City Arsenal DRAW
+AFC_Bournemouth LOST AGANIST Leeds
+Arsenal Chelsea DRAW
+Brentford BEAT Nottingham_Forest
+Brighton Wolves DRAW
+Crystal_Palace West_Ham DRAW
+Fulham BEAT Man_City
+Leicester Everton DRAW
+Liverpool Spurs DRAW
+Man_Utd LOST AGANIST Aston_Villa
+Newcastle BEAT Southampton
+AFC_Bournemouth LOST AGANIST Chelsea
+Brighton BEAT Everton
+Fulham BEAT Leicester
+Liverpool Brentford DRAW
+Man_City Leeds DRAW
+Newcastle Arsenal DRAW
+Nottingham_Forest BEAT Southampton
+Spurs Crystal_Palace DRAW
+West_Ham LOST AGANIST Man_Utd
+Wolves LOST AGANIST Aston_Villa
+Arsenal Brighton DRAW
+Aston_Villa BEAT Spurs
+Brentford BEAT West_Ham
+Chelsea LOST AGANIST Nottingham_Forest
+Crystal_Palace BEAT AFC_Bournemouth
+Everton LOST AGANIST Man_City
+Leeds LOST AGANIST Newcastle
+Leicester LOST AGANIST Liverpool
+Man_Utd Wolves DRAW
+Southampton LOST AGANIST Fulham
+AFC_Bournemouth LOST AGANIST Man_Utd
+Brighton BEAT Southampton
+Fulham BEAT Crystal_Palace
+Liverpool BEAT Aston_Villa
+Man_City LOST AGANIST Chelsea
+Newcastle BEAT Leicester
+Nottingham_Forest BEAT Arsenal
+Spurs LOST AGANIST Brentford
+West_Ham Leeds DRAW
+Wolves BEAT Everton
+Arsenal Wolves DRAW
+Aston_Villa BEAT Brighton
+Brentford BEAT Man_City
+Chelsea LOST AGANIST Newcastle
+Crystal_Palace LOST AGANIST Nottingham_Forest
+Everton LOST AGANIST AFC_Bournemouth
+Leeds LOST AGANIST Spurs
+Leicester BEAT West_Ham
+Man_Utd Fulham DRAW
+Southampton LOST AGANIST Liverpool
